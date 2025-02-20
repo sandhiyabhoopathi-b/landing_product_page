@@ -16,3 +16,13 @@ This is a **modern and responsive landing page** designed for the **Samsung Gala
 ## 🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
+
+## 📸 Screenshots
+**Landing Page Preview**
+https://github.com/sandhiyabhoopathi-b/landing_product_page/issues/1#issue-2865619211
+
+**Pricing & Buy Section**
+https://github.com/sandhiyabhoopathi-b/landing_product_page/issues/1#issuecomment-2671124751
+
+**Rating & Review section**
+https://github.com/sandhiyabhoopathi-b/landing_product_page/issues/1#issuecomment-2671128450
